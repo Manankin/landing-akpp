@@ -1,0 +1,13 @@
+:root {
+  --accent-orange: #EF4124;
+  --main-grey: #5F686D;
+}
+
+.footer {
+  height: 100px;
+  background-color: #5F686D;
+  background-image: url('./images/bg-image.png');
+  background-repeat: no-repeat;
+  background-position: left center;
+  color: #EF4124;
+}
